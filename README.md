@@ -1,4 +1,4 @@
-# Buttery Model Validation
+# Battery Model Validation
 
 This repository contains the dataset `T4_clean.csv` and a model diagram `model.png`. The script below shows how to validate a 2nd order RC battery model from the phone dataset.
 
